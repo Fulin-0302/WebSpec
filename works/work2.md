@@ -29,6 +29,14 @@
 1. 選擇放置儲存庫的資料夾：`D:\Web`
 2. GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
 3. 開啟終端機，輸入git指令
+- 請將EMail信箱更換為GitHub的申請信箱
+```shell
+git config --global user.email EMail信箱
+```
+- 請將GitHub帳號更換為GitHub帳號
+```shell
+git config --global user.name GitHub帳號
+```
 ```shell
 git clone [貼上網址]
 ```
@@ -40,16 +48,7 @@ git clone [貼上網址]
    2. 姓名：(請填寫真實姓名)
    3. 信箱：(請填寫電子信箱)
 3. 儲存檔案
-4. 開啟終端機，輸入git指令
-   - 請將EMail信箱更換為GitHub的申請信箱
-   ```shell
-   git config --global user.email EMail信箱
-   ```
-   - 請將GitHub帳號更換為GitHub帳號
-   ```shell
-   git config --global user.name GitHub帳號
-   ```
-5. 在VSCode上提交及推送
+4. 在VSCode上提交及推送
    1. 版本說明：⚠️(必填)
    2. 提交與推送
       ![](../images/VSCodeCommitPush.jpg)
