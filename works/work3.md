@@ -8,20 +8,26 @@
 ## 作業目標
 
 ### 一、VSCode複製GitHub上2個儲存庫Repo
-1. 在VSCode選擇資料夾：D:\Web
-   1. 目的為存放以下2個Repo
-2. 由GitHub複製Repo：WebSpec_學號
-   1. GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
-   2. 開啟終端機，輸入git指令
-   ```shell
-   git clone [貼上網址]
-   ```
-3. 由GitHub複製Repo：WebPage_學號
-   1. GitHub網址：https://github.com/(GitHub名稱)/WebPage_學號
-   2. 開啟終端機，輸入git指令
-   ```shell
-   git clone [貼上網址]
-   ```
+1. 選擇放置儲存庫的資料夾：`D:\Web`
+2. 開啟終端機，輸入git指令
+- 請將EMail信箱更換為GitHub的申請信箱
+```shell
+git config --global user.email EMail信箱
+```
+- 請將GitHub帳號更換為GitHub帳號
+```shell
+git config --global user.name GitHub帳號
+```
+3. 由GitHub複製Repo：WebSpec_學號
+- GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
+```shell
+git clone [貼上WebSpec網址]
+```
+4. 由GitHub複製Repo：WebPage_學號
+- GitHub網址：https://github.com/(GitHub名稱)/WebPage_學號
+```shell
+git clone [貼上WebPage網址]
+```
 
 ### 二、註冊AI工具：
 1. Google Antigravity：
