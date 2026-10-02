@@ -4,19 +4,13 @@
 ## 學生資訊
 
 學號：(開頭不含s)
-
 姓名：(請填寫真實姓名)
-
+信箱：(GitHub申請的信箱)
 GitHub名稱：(在GitHub的名稱)
-
 儲存庫名稱(Spec)：WebSpec_(學號不含s)
-
 儲存庫名稱(Page)：WebPage_(學號不含s)
-
 課程名稱：AI 規格驅動網站開發
-
 學期：105學年度第1學期
-
 教師：高吉隆
 
 ---
@@ -27,7 +21,7 @@ GitHub名稱：(在GitHub的名稱)
 |----:|----------|:------:|
 |  1週(09/17) | GitHub、Repository、Collaborators | [作業1](works/work1.md)(3%)、課堂參與(2%) 
 |  2週(09/24) | VSCode、Git Clone、Commit、Push、Pull | [作業2](works/work2.md)(3%)、課堂參與(2%)
-|  3週(10/01) | AI工具、簡易規格->網頁->詳細規格 | 作業3(3%)、課堂參與(2%)
+|  3週(10/01) | AI工具、簡易規格->網頁->詳細規格 | [作業3](works/work3.md)(3%)、課堂參與(2%)
 |  4週(10/08) | 詳細規格一(網頁架構)：Navbar、Hero、Section、Footer | 作業4(3%)、課堂參與(2%)
 |  5週(10/15) | 詳細規格二(內容與元件)：Heading、Text、Image、Card、Button | 作業5(3%)、課堂參與(2%)
 |  6週(10/22) | 詳細規格三(互動效果)：Hover、YouTube、Accordion | 作業6(3%)、課堂參與(2%)
