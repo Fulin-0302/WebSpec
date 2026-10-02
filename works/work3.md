@@ -7,7 +7,10 @@
 
 ## 作業目標
 
-### 一、VSCode複製GitHub上2個儲存庫Repo
+### 一、VSCode + Extensions + Git 使用一鍵安裝：
+1. 請於以下連結下載後，並**以系統管理員身分執行**：[下載](https://ocu.tw/download/VSCodeAI.exe)
+
+### 二、VSCode複製GitHub上2個儲存庫Repo
 1. 選擇放置儲存庫的資料夾：`D:\Web`
 2. 開啟終端機，輸入git指令
 - 請將EMail信箱更換為GitHub的申請信箱
@@ -29,7 +32,7 @@ git clone [貼上WebSpec網址]
 git clone [貼上WebPage網址]
 ```
 
-### 二、註冊AI工具：
+### 三、註冊AI工具：
 1. Google Antigravity：
    1. Sign in：Continue with Google
 ![](../images/AntigravitySignin.png)
@@ -40,11 +43,11 @@ git clone [貼上WebPage網址]
    2. 安裝ChatGPT單機版[連結](https://chatgpt.com/)
       1. 切換為Codex模式，需使用手機驗證
 
-### 三、在VSCode上修改/WebSpec_學號/works/work3.md
+### 四、在VSCode上修改/WebSpec_學號/works/work3.md
 1. 修改學號及姓名，並儲存檔案
 2. 填寫版本說明，並提交及推送
 
-### 四、使用AI工具製作網頁
+### 五、使用AI工具製作網頁
 1. 開啟AI工具視窗或單機版程式(以下以Codex為例)
 2. VSCode + Codex Extension製作網頁
    1. 使用VSCode開啟/WebSpec_學號/specs/**outline**.md
@@ -58,10 +61,10 @@ git clone [貼上WebPage網址]
 3. 檢查/WebPage/**outline**/index.html網頁內容
 4. 以瀏覽器或Live Server Extension檢視網頁
 
-### 五、在VSCode將資料夾/WebPage/outline上傳至GitHub
+### 六、在VSCode將資料夾/WebPage/outline上傳至GitHub
 1. 請於GitHub平台上確認資料已上傳成功
 
-### 六、使用AI工具逆向製作網頁規格
+### 七、使用AI工具逆向製作網頁規格
 1. 使用VSCode開啟/WebPage_學號/outline/index.html
 2. 開啟Codex側邊對話框，輸入以下提示詞
    ```htm
