@@ -27,8 +27,7 @@
 
 ### 二、VSCode Git Clone：
 1. 選擇放置儲存庫的資料夾：`D:\Web`
-2. GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
-3. 開啟終端機，輸入git指令
+2. 開啟終端機，輸入git指令
 - 請將EMail信箱更換為GitHub的申請信箱
 ```shell
 git config --global user.email EMail信箱
@@ -37,8 +36,15 @@ git config --global user.email EMail信箱
 ```shell
 git config --global user.name GitHub帳號
 ```
+3. 由GitHub複製Repo：WebSpec_學號
+- GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
 ```shell
-git clone [貼上網址]
+git clone [貼上WebSpec網址]
+```
+4. 由GitHub複製Repo：WebPage_學號
+- GitHub網址：https://github.com/(GitHub名稱)/WebPage_學號
+```shell
+git clone [貼上WebPage網址]
 ```
 
 ### 三、在VSCode上修改 work2.md
@@ -46,7 +52,7 @@ git clone [貼上網址]
 2. 修改以下欄位
    1. 學號：(開頭不含s)
    2. 姓名：(請填寫真實姓名)
-   3. 信箱：(請填寫電子信箱)
+   3. 信箱：(GitHub申請的信箱)
 3. 儲存檔案
 4. 在VSCode上提交及推送
    1. 版本說明：⚠️(必填)
